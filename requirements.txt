@@ -1,0 +1,8 @@
+
+SpeechRecognition
+wordcloud 
+matplotlib
+pydub
+google.generativeai
+streamlit-audiorec
+streamlit
